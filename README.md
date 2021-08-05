@@ -1,1 +1,1 @@
-This ALX is school project
+This is ALX school project
