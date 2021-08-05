@@ -1,1 +1,1 @@
-This is ALX school project
+This is ALX school project which include tasks and quiz.
